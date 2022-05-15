@@ -33,7 +33,7 @@ _Support Me_
 
 <a href="https://www.buymeacoffee.com/aman26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<float="right">![68747470733a2f2f706978616e3139382e6769746875622e696f2f696d616765732f446576656c6f7065722e676966](https://user-images.githubusercontent.com/94701256/168461705-a333b007-d30b-4c5c-bf81-997f78149f3e.gif)
+![68747470733a2f2f706978616e3139382e6769746875622e696f2f696d616765732f446576656c6f7065722e676966](https://user-images.githubusercontent.com/94701256/168461705-a333b007-d30b-4c5c-bf81-997f78149f3e.gif)
 
 
 
