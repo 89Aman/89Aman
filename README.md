@@ -32,6 +32,6 @@ I have been learning HTML and CSS for 2 years. And i found this field very inter
 
 <a href="https://www.buymeacoffee.com/aman26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-![lagom-the-programmer-writes-code-at-his-laptop](https://user-images.githubusercontent.com/94701256/168461584-d338d8d9-469f-462f-beb6-80cd2631f2b8.svg)
+![lagom-the-programmer-writes-code-at-his-laptop](https://user-images.githubusercontent.com/94701256/168461584-d338d8d9-469f-462f-beb6-80cd2631f2b8.svg, width="50" height="60")
 
 
