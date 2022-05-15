@@ -28,7 +28,8 @@ I have been learning HTML and CSS for 2 years. And i found this field very inter
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/89aman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mr_introvert_269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-###__Support Me__
+
+_Support Me_
 
 <a href="https://www.buymeacoffee.com/aman26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
