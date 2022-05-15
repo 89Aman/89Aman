@@ -28,10 +28,11 @@ I have been learning HTML and CSS for 2 years. And i found this field very inter
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/89aman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mr_introvert_269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-### Support Me
+###__Support Me__
 
 <a href="https://www.buymeacoffee.com/aman26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-![lagom-the-programmer-writes-code-at-his-laptop](https://user-images.githubusercontent.com/94701256/168461584-d338d8d9-469f-462f-beb6-80cd2631f2b8.svg, width="50" height="60")
+![68747470733a2f2f706978616e3139382e6769746875622e696f2f696d616765732f446576656c6f7065722e676966](https://user-images.githubusercontent.com/94701256/168461705-a333b007-d30b-4c5c-bf81-997f78149f3e.gif)
+
 
 
