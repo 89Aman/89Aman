@@ -14,7 +14,7 @@ I have been learning HTML and CSS for 2 years. And i found this field very inter
 * ✉️  You can contact me at _[Shasarita23@gmail.com](mailto:Shasarita23@gmail.com )_
 * 🧠  I'm learning Bootstrap
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Basically i am a teen with so much interest in This field
+* ⚡  Basically i am a teen with too much curiosity in web development *🔥*
 
 ### Skills
 
