@@ -8,11 +8,11 @@ Hi 👋 I'm Aman Sharma
 Student
 -------
 
-I have been learning HTML and CSS for 2 years. And i found this field very interesting
+I have been practicing HTML and CSS for past year. And i found this field very interesting
 
 * 🌍  I'm based in India, Chhattisgarh
 * ✉️  You can contact me at _[Shasarita23@gmail.com](mailto:Shasarita23@gmail.com )_
-* 🧠  I'm learning Bootstrap
+* 🧠  Currently on Bootstrap
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Basically i am a teen with too much curiosity in web development *🔥*
 
