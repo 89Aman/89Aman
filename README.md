@@ -8,7 +8,6 @@ Hi 👋 I'm Aman Sharma
 Student
 -------
 
-I have been practicing HTML and CSS for past year. And i found this field very interesting
 
 * 🌍  I'm based in India, Chhattisgarh
 * ✉️  You can contact me at _[Shasarita23@gmail.com](mailto:Shasarita23@gmail.com )_
