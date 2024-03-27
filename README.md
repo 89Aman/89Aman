@@ -11,7 +11,7 @@ Student
 
 * 🌍  I'm based in India, Chhattisgarh
 * ✉️  You can contact me at _[Shasarita23@gmail.com](mailto:Shasarita23@gmail.com )_
-* 🧠  Currently on Bootstrap
+* 🧠  Currently on Python
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Basically i am a teen with too much curiosity in web development *🔥*
 
