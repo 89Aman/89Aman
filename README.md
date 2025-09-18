@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on building full-stack-applications .
-- 🌱 I’m currently learning Java and exploring the basics of machine learning.
+- 🔭 I’m currently working on Self - Development .
+- 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on open-source projects and hackathons.
-- 🤔 I’m looking for help with understanding advanced algorithms and data structures.
+- 🤔 I’m looking for help with understanding advanced algorithms and data structures and ML Algos.
 - 💬 Ask me about my journey into programming, my favorite coding resources, or anything tech-related!
 - ⚡ Fun fact: I love solving puzzles, and learning and gaining exposure to new things!
 
