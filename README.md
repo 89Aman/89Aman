@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sharmaaman012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmaaman012" height="30" width="40" /></a>
 <a href="https://kaggle.com/amanshar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanshar07" height="30" width="40" /></a>
+  <iframe src="https://badgr.com/public/assertions/e9pd16XwTnaR0CrVctGqxQ?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167" title="Badge: Postman API Fundamentals Student Expert" style="width: 370px; height: 167px; border: 0px;"></iframe>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
