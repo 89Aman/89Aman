@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Sharmaaman42@proton.me**
 
-- ⚡ Fun fact **Meet me in IRL**
+- ⚡ Contributing To Mozilla Common Voice
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
