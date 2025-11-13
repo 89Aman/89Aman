@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Self - Developement**
+- Working on **Self - Developement**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **Deep Learning**
-
-- 💬 Ask me about **Machine Learning Algorithms**
-
-- 📫 How to reach me **Sharmaaman42@proton.me**
+- 📫 Reach me @ **Sharmaaman42@proton.me**
 
 - ⚡ Contributing To Mozilla Common Voice
 
