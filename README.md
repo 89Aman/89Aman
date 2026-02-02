@@ -3,7 +3,6 @@
 
 - Working on **Self - Developement**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 Reach me @ **Shasarita23@gmail.com**
 
