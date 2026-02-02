@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 Reach me @ **Sharmaaman42@proton.me**
+- 📫 Reach me @ **Shasarita23@gmail.com**
 
 - ⚡ Contributing To Mozilla Common Voice
 
