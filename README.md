@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">A Backend Engineer</h3>
 
-- Working on **Self - Developement**
+- Working on **Backend Technologies**
 
 - 📫 Reach me @ **Shasarita23@gmail.com**
 
