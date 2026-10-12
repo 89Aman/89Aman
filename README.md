@@ -3,7 +3,7 @@
 
 - Working on **Backend Technologies**
 
-- 📫 Reach me @ **Shasarita23@gmail.com**
+- 📫 Reach me @ **aman@noventra.org.in**
 
 - ⚡ Contributing To Mozilla Common Voice
 
